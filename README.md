@@ -39,9 +39,9 @@ The script dynamically injects CSS to style the upsell section for different scr
    - The script updates the cart contents dynamically on button click.
   
 - **Cart Notification:**
-   - It displays a notification when an item is added, showing the product image and name.
+   - It displays a notification when an item is added, showing the product image and title.
   
 - **Cart Bubble Update:**
-   - The cart item count bubble near the cart icon is updated with the latest item count.
+   - The cart item count in the cart icon is updated with the latest item count.
 
 ---
