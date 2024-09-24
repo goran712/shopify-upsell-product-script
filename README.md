@@ -36,7 +36,7 @@ The script dynamically injects CSS to style the upsell section for different scr
 ### Extra Functionality:
 
 - **Updating the Cart:**
-   - The script updates the cart contents dynamically via AJAX when a product is added to the cart.
+   - The script updates the cart contents dynamically on button click.
   
 - **Cart Notification:**
    - It displays a notification when an item is added, showing the product image and name.
